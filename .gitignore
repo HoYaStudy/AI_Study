@@ -1,0 +1,11 @@
+# Python Environment
+**/.python-version
+
+# Python Virtual Environment
+**/.venv/
+
+# Jupyter Notebook
+**/.ipynb_checkpoints/
+
+# VS Code
+**/.vscode/

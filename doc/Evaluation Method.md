@@ -9,7 +9,6 @@ The confusion matrix organizes the results of the classification in a tabular fo
 ```python
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(expect, predict)
-print(cm)
 ```
 
 The result shows like below.
@@ -85,12 +84,13 @@ f1s = f1_score(expect, predict)
 
 ## Prediction Probability
 
+Create an array by dividing the probability that is 0 and 1 for each data. Use this to evaluate the actual predicted results.
+
 ```python
 from sklearn.linear_model import LogisticRegression
 model_lr = LogisticRegression(solver='lbfgs')
 model_lr.fit(x, y)
 model_lr.predict_proba(x)
-
 ```
 
 ## ROC Curve and AUC

@@ -1,5 +1,8 @@
 pylint
 black
 jupyter
+tensorflow
+numpy
 sklearn
 pandas
+matplotlib

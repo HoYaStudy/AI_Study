@@ -10,5 +10,8 @@
 # Jupyter Notebook
 **/.ipynb_checkpoints/
 
+# Node.JS
+**/node_modules/
+
 # VS Code
 **/.vscode/

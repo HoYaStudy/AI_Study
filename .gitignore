@@ -1,9 +1,6 @@
 # MACOSX
 **/.DS_Store
 
-# Python Environment
-**/.python-version
-
 # Python Virtual Environment
 **/.venv/
 

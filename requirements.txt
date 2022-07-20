@@ -2,7 +2,8 @@ pylint
 black
 jupyter
 tensorflow
+keras
 numpy
+matplotlib
 sklearn
 pandas
-matplotlib

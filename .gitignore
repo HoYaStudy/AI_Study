@@ -4,6 +4,9 @@
 # Python Virtual Environment
 **/.venv/
 
+# Python Cache
+**/__pycache__/
+
 # Jupyter Notebook
 **/.ipynb_checkpoints/
 

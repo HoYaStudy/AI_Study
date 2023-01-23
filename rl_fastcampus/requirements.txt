@@ -1,0 +1,10 @@
+pylint
+black
+jupyter
+numpy
+pandas
+matplotlib
+torch
+torchvision
+torchaudio
+gym
